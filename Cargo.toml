@@ -21,6 +21,7 @@ members = [
     "vulnerable/div_by_zero",
     "vulnerable/flash_loan_no_check",
     "vulnerable/allowance_not_decremented",
+    "vulnerable/permit_domain_missing",
     "vulnerable/leaky_events",
     "vulnerable/no_slippage",
     "secure/secure_vault",
