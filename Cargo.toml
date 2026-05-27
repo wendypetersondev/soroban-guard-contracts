@@ -87,6 +87,10 @@ members = [
     "vulnerable/signed_unsigned_wrap",
     "vulnerable/abs_min_overflow",
     "vulnerable/negative_oracle_price",
+    "vulnerable/invoker_trusted_as_user",
+    "vulnerable/cross_call_error_swallowed",
+    "vulnerable/callback_before_invariant",
+    "vulnerable/bridge_partial_mint_replay",
 ]
 
 [workspace.dependencies]
