@@ -76,6 +76,10 @@ members = [
     "vulnerable/expired_delegation",
     "vulnerable/uncapped_supply",
     "vulnerable/silent_admin_change",
+    "vulnerable/public_archive_restore",
+    "vulnerable/ttl_bump_index_only",
+    "vulnerable/storage_namespace_omitted",
+    "vulnerable/slash_without_evidence",
 ]
 
 [workspace.dependencies]
